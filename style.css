@@ -81,7 +81,7 @@ h2 {
     background-color: lavender;
     margin: 0 auto;
 
-    background-image: url('images/banner2.jpg');
+    background-image: url('banner2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -91,16 +91,16 @@ h2 {
 
 @keyframes imageshow{
     0% {
-        background-image: url('images/banner2.jpg');
+        background-image: url('banner2.jpg');
     }
     50% {
-        background-image: url('images/banner3.jpg');
+        background-image: url('banner3.jpg');
     }
     75% {
-        background-image: url('images/banner.jpeg');
+        background-image: url('banner.jpeg');
     }
     100% {
-        background-image: url('images/banner2.jpg');
+        background-image: url('banner2.jpg');
     }
 }
 
